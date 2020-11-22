@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net461</TargetFramework>
+    <Authors>Antti Alasvuo</Authors>
+    <Company>Antti Alasvuo</Company>
+    <Description>Enables the admin users in Episerver to set specific languages to export in Episerver Export instead of the default all languages.</Description>
+    <Copyright>Antti Alasvuo ©2020</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>Export,Languages</PackageTags>
+    <PackageReleaseNotes>Initial release.</PackageReleaseNotes>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EPiServer.CMS.AspNet" Version="[11.1.0,12.0)" />
+  </ItemGroup>
+
+</Project>
