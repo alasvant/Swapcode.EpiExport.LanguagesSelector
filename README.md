@@ -10,4 +10,4 @@ Note that the language setting only applies to the language branches - all maste
 * click 'Plug-in Manager'
 * in the 'Plug-ins' tab click the 'Swapcode.EpiExport.LanguagesSelector'
 * there is a field 'Select languages to be used in Episerver export'
-    * select the checkboxes for the anguages that the export should include
+    * select the checkboxes for the languages that the export should include
